@@ -1,0 +1,1 @@
+# The modern mode, "use strict"
