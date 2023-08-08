@@ -19,3 +19,22 @@ The `<script>` tag contains JavaScript code which is automatically executed when
 
 ## [Modern Markup](./readme.md#modern-markup)
 
+The `<script>` tag has a few attributes that are rarely used nowadays but can still be found in old code:
+
+The type attribute: `<script type=…>`
+
+The old HTML standard, HTML4, required a script to have a <kbd>type</kbd>. Usually it was `type="text/javascript"`. It’s not required anymore. Also, the modern HTML standard totally changed the meaning of this attribute. Now, it can be used for JavaScript modules. But that’s an advanced topic, we’ll talk about modules in another part of the tutorial.
+
+The language attribute: `<script language=…>`
+
+This attribute was meant to show the language of the script. This attribute no longer makes sense because JavaScript is the default language. There is no need to use it.
+
+Comments before and after scripts.
+
+In really ancient books and guides, you may find comments inside `<script>` tags, like this:
+
+    <script type="text/javascript"><!--
+        ...
+    //--></script>
+
+This trick isn’t used in modern JavaScript. These comments hide JavaScript code from old browsers that didn’t know how to process the `<script>` tag. Since browsers released in the last 15 years don’t have this issue, this kind of comment can help you identify really old code.
