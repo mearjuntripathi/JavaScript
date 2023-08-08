@@ -128,4 +128,4 @@ Here are some additional things to keep in mind when running JavaScript in HTML:
 
 ## [A JavaScript related topic - ](./README.md#a-javascript-related-topic)
 
-### 1. [JavaScript Fundamental](./Javascript%20Fundamental/readme.md) ###
+### 1. [JavaScript Fundamental](./Javascript%20Fundamental/) ###
