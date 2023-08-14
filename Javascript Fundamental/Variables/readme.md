@@ -106,3 +106,4 @@ We can easily grasp the concept of a “variable” if we imagine it as a “box
 For instance, the variable message can be imagined as a box labeled `"message" `with the value `"Hello!"` in it:
 
 ![Variable representation](https://javascript.info/article/variables/variable.svg)
+<img alt="Variable representation" src="https://javascript.info/article/variables/variable.svg">
