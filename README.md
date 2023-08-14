@@ -125,7 +125,3 @@ Here are some additional things to keep in mind when running JavaScript in HTML:
 - If you are using an external JavaScript file, you need to specify the file path in the src attribute of the `<script>` tag.
 
 ---
-
-## [A JavaScript related topic - ](./README.md#a-javascript-related-topic)
-
-### 1. [JavaScript Fundamental](./Javascript%20Fundamental/) ###
