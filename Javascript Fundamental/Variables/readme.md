@@ -100,3 +100,9 @@ Here are some examples of how to use var and let:
 
 ****
 
+## [A real-life anology](#a-real-life-anology)
+We can easily grasp the concept of a “variable” if we imagine it as a “box” for data, with a uniquely-named sticker on it.
+
+For instance, the variable message can be imagined as a box labeled `"message" `with the value `"Hello!"` in it:
+
+![Variable representation](https://javascript.info/article/variables/variable.svg)
