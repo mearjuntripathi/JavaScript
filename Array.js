@@ -31,3 +31,5 @@ console.log(Fruit);
 console.log("------------- UNSHIFT ------------")
 Fruit.unshift('Apple');
 console.log(Fruit); // it add element at first position
+
+console.log("------------- SPLICE ------------")
